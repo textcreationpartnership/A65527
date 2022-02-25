@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A warning from the mouth and spirit of the Lord through his servant to the people of England that they may forsake their wicked and ungodly wayes, by true and unfained repentance ... : also a few words of exhortation and comfort to the people of God.</title>
+            <author>Weston, Nathaniel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65527</idno>
+            <idno type="STC">Wing W1480</idno>
+            <idno type="STC">ESTC R21876</idno>
+            <idno type="EEBO-CITATION">12058640</idno>
+            <idno type="OCLC">ocm 12058640</idno>
+            <idno type="VID">53178</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65527)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53178)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 829:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A warning from the mouth and spirit of the Lord through his servant to the people of England that they may forsake their wicked and ungodly wayes, by true and unfained repentance ... : also a few words of exhortation and comfort to the people of God.</title>
+                  <author>Weston, Nathaniel.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint information taken from colophon.</note>
+                  <note>Signed: Nathaniel Weston.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Repentance.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:53178:1"/>
+            <pb n="1" facs="tcp:53178:1" rendition="simple:additions"/>
+            <p>A WARNING from the Mouth and Spirit of the LORD, through his Servant to the People of <hi>ENGLAND,</hi> That they may Forſake their Wicked and Ungodly Wayes, by true and unfained Repentance, leaſt the unalterable Decree from the Lord go forth againſt them, and they periſh in the great and terrible Day of the Lord, which is to come upon all the ungodly and prophane.</p>
+            <p>Alſo a few Words of Exhortation and Comfort to the People of GOD.</p>
+            <p>
+               <seg rend="decorInit">O</seg>H People of <hi>ENGLAND,</hi> Repent while you have a day, leaſt the Lord God conſume you; you have been often warned by the Lords meſſen<g ref="char:EOLhyphen"/>gers, but you have refuſed to hearken, but go on in your ſtif-neckedneſs and rebellion: the Lord hath a controverſie with you, you black <hi>Egyptians,</hi> the curſe is coming upon you, it haſtens, it is at the door, it is ready to ſeaze upon you; what will become of you? you cannot eſcape Gods heavy hand, you have given your power to the
+<pb n="2" facs="tcp:53178:2"/> beaſt, that you may work wickedneſs by a Law; but know aſſu<g ref="char:EOLhyphen"/>redly, the Lord will ſcourge you, for ruine will be your end, unleſs you repent; for the Lord God will not be mocked by you any longer, you ſtout-harted ones, that go on to provoke the Lord God to anger, his plagues is coming upon you, you can<g ref="char:EOLhyphen"/>not eſcape Gods fiery indignation which is coming upon you; repent ſpeedily leaſt you periſh, and there be no remedy for you, the Lord will cut you off, the day haſtens he will ſpare you no longer unleſs you repent, why will not you take warning? his jealouſie is kindled againſt you, your downfal haſtens, deſtruction is your portion from the Lord God, I write it (or declare) your ſentence is determined, as ſure as <hi>Oliver Cromwells</hi> was, the pit is ready for you, you cannot eſcape it, my heart is troubled within me for you, my ſoul pitties you and therefore warn you as I am moved of the Lord, that you may take warning, and ſlight it not, it is <hi>the word of the Lord to you, whether you will hear, or forbear,</hi> yea the <hi>mouth of the Lord hath ſpoken it,</hi> to awaken you to repentance, and to fear the Lord God, and to ceaſe from ſin and evil, works of the Devil, luſt, pride and wantonneſs, and idleneſs, which abounds amonſt you, which are the ſins of <hi>Sodom;</hi> your doom is coming upon you, unleſs you repent, deſtruction will be your end, thats your wages, due to ſuch works as you bring forth; the fiery wrath and indignation of God is kindled againſt you, plagues is your portion, deſtruction will be your end; Repent I ſay again from the Lord, and take warning, leaſt you periſh, and be cut off; as they before you were, and there be no remedy for you; the fire is kindling and kindled, that muſt and will burn you up, ye proud and lofty ones, who ſet your ſelves againſt the Lord, and will have none of his Counſel, but hardens your hearts, and ſtops your ears againſt the many warnings you have had, time after time, and day after day, and year after year, ſaying <hi>why will ye dye, ye children of men;</hi> your blood be upon your own heads, you are warned, and I ſhall be clear of your blood, when miſery and deſtruction comes upon you.</p>
+            <p>God ſo loved the world, that he gave his only begotten Son, that whoſoever believeth in him ſhould not periſh but have ever<g ref="char:EOLhyphen"/>laſting life, for God ſent not his Son into the world to condemne the world, (and ſo to deſtroy the world juſtly for ſin) but for this very end, that they might be ſaved; this is my teſtimony for
+<pb n="3" facs="tcp:53178:2"/> Lord, that he deſires not the death of any one of you; therefore I ſay in Gods fear and dread come to repentance, own the light of Jeſus Chriſt in your conſciences, that ſhews you ſin and evil, a meaſure of this light you all have, thou drunkard, thou whore<g ref="char:EOLhyphen"/>monger, thou unclean perſon, whoever thou art, this light in thy conſcience reproves thee for thy wickedneſs, and ſhews thee the danger that thou art in, and the way to come out of ſin, and eſcape the danger, but thou regardeſt it not but goes on, like the dog to the vomit, adding drunkenneſs to thirſt, ſin unto ſin, as if there were no God to take notice of thy wickdneſs; but know aſſuredly he will plead with thee for thy wickedneſs and un<g ref="char:EOLhyphen"/>godlineſs, and will overturn thee whoever thou art (be thou high or low) withall the ungodly, and caſt you all into the Lake that burns with fire and brimſtone, wo will be your portion, deſtru<g ref="char:EOLhyphen"/>ction your end, and death will be your wages.</p>
+            <p>You vagabonds, you out-caſts, your deſtruction haſtens, the cup is ready prepared, you muſt drink of the cup of Gods fury, your day haſtens, I ſay from Gods plagues you cannot flee, you wrong doers, ye ſeed of evil doers, ye curſed children, ye <hi>Babylo<g ref="char:EOLhyphen"/>niſh</hi> bratts, ye proud and lofty ones, ye ſturdy oaks of <hi>Baſan,</hi> ye hireling Prieſts and deceivers that feed your ſelves with the fat, and cloath your ſelves with the wool, your judgement and downfall haſtens, you muſt periſh altogether, the fiery wrath and indignation of God is kindling and kindled againſt you, you ſhall utterly be conſumed unleſs you repent and ceaſe from your oppreſſion; ye <hi>Egyptian</hi> task maſters, the Lord God hath ſpoken it that he will plead with you, ye drunkards of <hi>England,</hi> ye prieſts, to you I ſpeak that have drunk the blood of Gods people, blood muſt be given you again, you are worthy of it; plagues is coming upon you, your deſtruction haſtens, your portion is ready for you, drink it all you muſt, the dreggs muſt be wrung out of you, from the hand of a juſt God you cannot fly, nor eſcape, he will purſue you, and over-take you, and you ſhall be overwhelmed under Gods fierce wrath which haſtens to come upon you, your end is near, <hi>the mouth of the Lord hath ſpoken it,</hi> verily it ſhall come to paſs; ye curſed ſpeakers that have daubed, and daub with untempered morter, crying peace to the wicked, whileſt they with you go on in wickedneſs, ye <hi>Ephraimitiſh</hi> drunkards the curſe is coming up<g ref="char:EOLhyphen"/>on you, your plagues muſt be doubled, you are worthy of it, you
+<pb n="4" facs="tcp:53178:3"/> commit ſin and cauſe the people to ſin by your wickedneſs and ungodly practices, the Devil is your maſter, your God is your bellies, widows houſes you have devoured and go on to devour, you bark for your bellies and ſteale for your backs, and make merchandize of ſouls, and pitty not the poor that is in want; ye dumb and greedy dogs the Lord God will ſtop your mouths in the day of your calamity which is coming upon you, you are of <hi>Cains</hi> brood; you <hi>Iſhmaelitiſh</hi> Marchants, your trading ſhall ceaſe and none ſhall buy your wares any more, nor none ſhall pitty you nor regard you, you <hi>Babyloniſh</hi> whores a night robe is coming up<g ref="char:EOLhyphen"/>on you, blackneſs of darkneſs ſhall be your covering, ye idle ſhepherds that feed your ſelves but not the flock, your goard muſt wither, and you muſt conſume and periſh together, <hi>the mouth of the Lord hath ſpoken it, it ſhall certainly come to paſs.</hi>
+            </p>
+            <p>A day of howling and bitter lamentation is coming upon you, ye fat kine of <hi>Baſan,</hi> the ſword of the Lord is prepared, it is four<g ref="char:EOLhyphen"/>buſhed and made ready to cut you down and to deſtroy you, even by the word of his mouth, it ſhall pierce through your hearts and wound and ſlay you, and not one of you ſhall eſcape, <hi>the mouth of the Lord hath ſpoken it;</hi> ye turn coats of <hi>England,</hi> ye weather-cocks ye time-ſervers, ye back-ſliders, ye revolters, ye ſons of <hi>Belial,</hi> God will certainly deſtroy you, ye ſhall not eſcape Gods hand, the day hath made you manifeſt already what you have been and are; ye time-ſerving Prieſts, the decree of the Lord is gone forth againſt you, Prieſts and people muſt periſh together, death muſt be your portion from God, the ſting is coming, the worm will gnaw you in your inwards, the Sun will burn and ſcorch you, the vialls of Gods wrath is to be powred forth upon the Sun, which will burn and dry you up, the day ſhall make it manifeſt; famine and peſtilence is to come upon you, the word of the Lord ſhall perfom it; you ſhall pine away with hunger and ſudden deſtruction, yea a fearfull end ſhall come upon you, your moun<g ref="char:EOLhyphen"/>tains and hills cannot cover you in that day when God will come to give you a juſt recompence for all your wickednes; a bitter cup without mixture, you muſt all drink, <hi>the Lord God hath ſpoken it,</hi> the two edged ſword of the Lord muſt cut and make way through the Earth, you ripen apace, you haſten to your latter end, the cup of trembling and ſorrow you muſt drink, nowicked worker muſt go unpuniſhed.</p>
+            <pb n="5" facs="tcp:53178:3"/>
+            <p>But the Lord will preſerve, and ſpare, and make up his jewels, and will be their Rock, refuge, ſhield, and defence, and hiding place, in that day; but the wicked and all the ungodly ſhall periſh without remedy, and unrecoverable ſhall their ſtroke be; coals of fire ſhall be kindled upon the heads of the wicked, their plague nor ſore ſhall not be cured, nor healed, dung ſhall cover your faces, and you ſhall cry out, and curſe your God, whom you have ſo long ſerved and woſhipped; this ſhall come upon you as a juſt recompence for all your wickedneſs that you have done and committed againſt the Lord; the ſtone ſhall fall upon you, you ſtony-hearted ones, it will ſink you under the wrath of God Almighty, the bow is bending to ſhoot at you, the dart ſhall ſtrike through your liver, your faces ſhall be covered with blackneſs, you ſhall be hurled to and fro by the whirlwind of Gods wrath and fury which is to come upon you, wofull will be your end, your pride ſhall be marred, ye <hi>Moabites,</hi> and your glory defaced, ſtrength ſhall be taken from the ſtrong men, in that day, the fire is kindling that ſhall burn their bones, they ſhall be very dry, they ſhall hang down their heads, and go feebly, all the day they ſhall roar like beares, they ſhall mourn, and there ſhall be none to comfort them, they ſhall ſit in aſhes, they ſhall lick up duſt, they ſhall ſpew up that again, which they have ſwallowed down, they ſhall be ſick of it, and die without re<g ref="char:EOLhyphen"/>covery; a winter is coming, they ſhall be frozen in the inwards, the pale Horſe ſhall tread them under feet, their arm ſhall rot, their leggs ſhall be lame, their eyes blinded, their ears ſtopped, their hearts hardened, their bellies ſhall ſwell, their thighes ſhall rot, their end haſtens, unleſs they repent; prize your time, you have yet a little ſpace.</p>
+            <p>The bed of torment and ſorrow is for <hi>Jezabels</hi> Children, dogs ſhall devour them in the field, <hi>Naiboth</hi> ſhall have his Vineyard again, it ſhall it yield him fruit, he ſhall ariſe and come into his Vineyard, and dreſſe it, and prune it, and dig about, and fence it, and it ſhall be no longer a prey to devourers, no thief ſhall come into it to Rob, nor to deſtroy, any more, for ever, <hi>the mouth of the Lord hath ſpoken it,</hi> the Word is gone forth, verily, it ſhall come to paſſe in the day of the Lord God; Bleſſed and happy are they that wait for it, the time drawes near, the full Cup of Bleſſing from God every faithful one ſhall drink at the
+<pb n="6" facs="tcp:53178:4"/> hand of the Lord, of Wine well refined (but no ungodly one ſhall have any) but the righteous ſhall rejoyce in the Lord for ever, and ever, and all the upright in heart, ſhall glory in the God of their Salvation, and praiſe his Name in the Land of the living; the breaſt ſhall be opened, for the Babes to ſuck milk out of, the Lambs ſhall feed on top of <hi>Bether</hi> mountains, the Saints ſhall ſing praiſes, the Lord ſhall Reign over all, God, and King, ſitting upon his holy Throne ruling in his Power, and Dominion for ever and ever, Bleſſed are they that wait this to ſee; Zions King muſt and ſhall Rule and Reign God over all, Bleſſed for evermore, <hi>Hallelujah</hi> to our God, and to the <hi>Lamb</hi> that ſits upon the Throne for ever, and ever.</p>
+            <p>Thus God will bring to paſſe his mighty work by his own out<g ref="char:EOLhyphen"/>ſtretched arm and power; my friends, keep to the Power, it is able to preſerve you, truſt in it, it will uphold you in all ſtraits and tryals, it is all ſufficient to deliver in time of the greateſt danger, the bleſſing of the Lord God will attend you, as you keep to it, but if you go from it, it will give you ſorrow, and you will be weak as other men, this I have learned <hi>in the deep;</hi> Bleſſed is the man, or woman, that waiteth the appointed time, for the fulfilling of this, they ſhall have their part and portion in the Lord, who is and will be to them an exceeding great re<g ref="char:EOLhyphen"/>ward, many are come to partake of it already, bleſſed and praiſed be the name of the Lord our God, the ſeaſon is good, you ſhall reap if you faint not in your minds.</p>
+            <p>The Lord God of heaven and earth fill every Babe and ſuck<g ref="char:EOLhyphen"/>ling with the milk of the word, that they by it may grow up as children, nurſed, and nouriſhed, at the breaſt of conſolation and receive nouriſhment from God the Father of all that faithful are, and learn to be content in time of want, and the Lord will give more in due time; this have I learned, in every eſtate and con<g ref="char:EOLhyphen"/>dition to be content; the Lord God of heaven open the ſpring of Life in every one of you, that your ſouls may be refreſhed, nou<g ref="char:EOLhyphen"/>riſhed and watered, that you may be living branches receiving vertue and ſap from the Root and true Vine to grow in it, up to the praiſe of God; and the God of love and Peace, be with you, bleſs and proſper his own Work in you, which he hath wrought, with, and by his pure Power; and the endleſs life of the living, holy wiſe God, be among you, working in you, out
+<pb n="7" facs="tcp:53178:4"/> all that which is contrary to him, that the Name of the Lord may be honoured in your hearts, and not diſhonoured; and the God of Heaven keep you, my dear Friends, Babes and Lambs of my heavenly Father, and give you of his heavenly Treaſures, and keep them, and conceal them not, and learn Wiſdom from God, that none of you may ſpend your portion any longer with harlots, or any lovers whatſoever; and minde Gods fear, alwayes before your eyes, and he that ſees in ſecret will reward you openly, and keep truth on your ſide; in and at all times be ready to anſwer Gods Call, in whatſoever his requirings are, and your ſubſtance will be increaſed, and you ſhall never want food, as you keep faithful and obedient; for the obedient ſhall eat of the good things, and their ſouls ſhall delight in fatneſs.</p>
+            <p>The God of Heaven be with you, and his living power ac<g ref="char:EOLhyphen"/>companie you, you to preſerve, guide, govern and order, and counſel you, that you may do nothing whereby his Name may be diſhonoured by any of you any longer, but that his Name may be feared, reverenced and obeyed; and prize his love, free<g ref="char:EOLhyphen"/>grace and mercy to you, in that he hath ſpared you, and not cut you off in the midſt of your dayes; and improve your time, that you have here to continue, that to his praiſe you may <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive; and the God of heaven open your underſtandings, to underſtand and judge aright between the precious and the vile in your par<g ref="char:EOLhyphen"/>ticulars, and between that that ſerveth God, and that which ſerveth him not;</p>
+            <p>
+               <hi>Which is the deſire of your Brother, and fellow-ſervant in the truth as it is in Jeſus, Known among men by the name</hi>
+            </p>
+            <closer>
+               <signed>Nathaniel Weſton.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed for <hi>Thomas Simmons</hi> at the ſign of the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
